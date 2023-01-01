@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#image1, #image2 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+  
+#counter[type="number"] {
+    width: 50px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: lightgray;
+    font-size: 20px;
+    font-weight: bold;
+}
+  
